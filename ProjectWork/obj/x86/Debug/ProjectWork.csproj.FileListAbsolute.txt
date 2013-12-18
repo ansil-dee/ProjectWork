@@ -1,0 +1,18 @@
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\ProjectWork.DerekPOS.resources
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\ProjectWork.Properties.Resources.resources
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\bin\Debug\ProjectWork.exe
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\bin\Debug\ProjectWork.pdb
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\ProjectWork.exe
+C:\Users\Derek Ans\AppData\Local\Temporary Projects\ProjectWork\obj\x86\Debug\ProjectWork.pdb
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\ProjectWork.exe
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\ProjectWork.pdb
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\ProjectWork.DerekPOS.resources
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\ProjectWork.Properties.Resources.resources
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Derek Ans\documents\visual studio 2010\Projects\ProjectWork\ProjectWork\obj\x86\Debug\GenerateResource.write.1.tlog
